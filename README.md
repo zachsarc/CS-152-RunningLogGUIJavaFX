@@ -1,4 +1,5 @@
 ## This JavaFX application is a graphical running log that allows users to calculate their pace per mile based on race type and completion time.
+### This Exercise is apart of Week 7 of [CS-152_Java2](https://github.com/zachsarc/CS-152_Java2)
 ```java
 package com.example.javafxpractice;
 
